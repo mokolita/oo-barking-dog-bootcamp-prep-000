@@ -1,4 +1,4 @@
-Dog.new 
+
 
 class Dog 
  
@@ -20,3 +20,4 @@ class Dog
 
 
 end 
+Dog.new 
