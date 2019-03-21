@@ -1,3 +1,5 @@
+Dog.new 
+
 class Dog 
  
   def initialize(name)
